@@ -1,4 +1,5 @@
 # IIT-Bombay-Hackathon
+[View the documentation here](https://github.com/username/repository-name/blob/main/sample.pd)
 
 # Credit Card Behaviour Score
   #### IIT Bombay case study
@@ -29,6 +30,3 @@ You are also required to submit a detailed documentation of this exercise. A goo
 As detailed in the previous section, you are required to submit the Primary key and predicted probabilities of all the accounts provided to you in the validation data, as well as a documentation.
 We will only evaluate submissions that are complete and pass sanity checks (probability values should be between 0 and 1 for example). 
 Submissions will be evaluated basis how close the predicted probabilities are to the actual outcome. We will also evaluate the documentation basis it’s completeness and accuracy. Extra points will be granted to submissions that include interesting insights / observations on the data provided.
-
-[View the documentation here](https://github.com/username/repository-name/blob/main/sample.pdf)
-
