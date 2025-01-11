@@ -13,10 +13,10 @@ Your objective is to develop the Behaviour Score for Bank A.
 
 ## Datasets
 You have been provided with a random sample of 96,806 Credit Card details in  “Dev_data_to_be_shared.zip”, along with a flag (bad_flag) – henceforth known as “development data”. This is a historical snapshot of the Credit Card portfolio of Bank A. Credit Cards that have actually defaulted have bad_flag = 1. You have also been provided with several independent variables. These include:
-•	On us attributes like credit limit (varables with names starting with onus_attributes)
-•	Transaction level attributes like number of transactions / rupee value transactions on various kinds of merchants (variables with names starting with transaction_attribute)
-•	Bureau tradeline level attributes (like product holdings, historical delinquencies) – variables starting with bureau
-•	Bureau enquiry level attributes (like PL enquiries in the last 3 months etc) – variables starting with bureau_enquiry
+1) 	On us attributes like credit limit (varables with names starting with onus_attributes)
+2) 	Transaction level attributes like number of transactions / rupee value transactions on various kinds of merchants (variables with names starting with transaction_attribute)
+3) 	Bureau tradeline level attributes (like product holdings, historical delinquencies) – variables starting with bureau
+4)	Bureau enquiry level attributes (like PL enquiries in the last 3 months etc) – variables starting with bureau_enquiry
 You have also been provided with another random sample of 41,792 Credit Card details in “validation_data_to_be_shared.zip” with the same set of input variables, but without “bad_flag”. This will be referred to going forward as “validation data”.
 
 
