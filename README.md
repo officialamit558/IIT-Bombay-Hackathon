@@ -1,5 +1,5 @@
 # IIT-Bombay-Hackathon
-[View the documentation here](https://github.com/username/repository-name/blob/main/sample.pd)
+[View the documentation here](Credit_Card_Behaviour.pdf)
 
 # Credit Card Behaviour Score
   #### IIT Bombay case study
